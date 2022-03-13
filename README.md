@@ -29,3 +29,23 @@
 🔗 Anaconda Download: https://www.anaconda.com/download/
 
 🔗 Pycharm Download: https://www.jetbrains.com/pycharm/download/#section=windows
+
+Command Prompt: conda create -n tensor python=3.6 (put this version no matter what you have installed!)
+#
+# To activate this environment, use
+#
+#     $ conda activate tensor
+#
+# To deactivate an active environment, use
+#
+#     $ conda deactivate
+
+Command Prompt: pip install tensorflow
+
+Command Prompt: pip install keras
+
+
+
+
+
+
