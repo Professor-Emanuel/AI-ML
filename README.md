@@ -6,7 +6,7 @@
     
     💾 UCI Student Data Set: https://archive.ics.uci.edu/ml/datasets/Student+Performance
     
-    💾 UCI Car Evaluation Data Set: !
+    💾 UCI Car Evaluation Data Set: https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
 
 2⃣  Neural Networks 
 
