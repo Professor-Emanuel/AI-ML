@@ -29,6 +29,14 @@ Y = list(cls)
 X_train, X_test, Y_train, Y_test = sklearn.model_selection.train_test_split(X, Y, test_size = 0.1) #split the data 10% into test samples
 #print(X_train, Y_test)
 
+#create the classifier
+model = KNeighborsClassifier(n_neighbors = 9)
+model.fit(X_train, Y_train)
+accuracy = model.score(X_test, Y_test)
+print(accuracy)
 
-
+predicted = model.predict(X_test)
+names = ["unacc", "acc", "good", "vgood"]
+for x in range(len(predicted)):
+    print("Predicted: ", names[predicted[x]], "Data: ", X_test[x], "Actual: ", names[Y_test[x]])
 
