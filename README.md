@@ -46,6 +46,18 @@ Command Prompt: pip install keras
 
 In the edit_config.png you can see in the right top corner that you need to change the configurations, aka change the script path and select the proper .py file!
 
+More on classification, regression, clustering:
+
+https://scikit-learn.org/stable/
+
+More on KNN:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
+
+
+
+
+
 
 
 
