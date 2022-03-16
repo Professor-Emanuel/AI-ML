@@ -54,6 +54,9 @@ More on KNN:
 
 https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.KNeighborsClassifier.html
 
+More on SVM:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
 
 
