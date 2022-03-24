@@ -66,9 +66,18 @@ https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans
 https://scikit-learn.org/stable/modules/clustering.html#k-means
 
 
+TensorFlow:
+
+https://www.tensorflow.org/overview
+
+https://www.tensorflow.org/tutorials/keras/classification
 
 
+For the neural network part, run:
 
+pip install -q tensorflow==2.0.0
+pip install matplotlib
+pip install pandas
 
 
 
