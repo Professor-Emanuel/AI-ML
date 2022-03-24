@@ -59,6 +59,15 @@ More on SVM:
 https://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html
 
 
+More on KMeans Clustering:
+
+https://scikit-learn.org/stable/modules/generated/sklearn.cluster.KMeans
+
+https://scikit-learn.org/stable/modules/clustering.html#k-means
+
+
+
+
 
 
 
