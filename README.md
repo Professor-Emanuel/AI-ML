@@ -80,5 +80,15 @@ pip install matplotlib
 pip install pandas
 
 
+Text classification:
+
+https://www.tensorflow.org/text/tutorials/text_classification_rnn
+
+
+
+
+
+
+
 
 
