@@ -36,9 +36,9 @@ print(decode_review(test_data[0]))
 
 #define the model; the output neuron that will tell us if the review is good or bad (so 0 or 1)
 model = keras.Sequential()
-model.add(kera.layers.Embedding(10000, 16))
-model.add(kera.layers.GlobalAveragePooling1D())
-model.add(kera.layers.Dense(16, activation="relu"))
-model.add(kera.layers.Dense(1, activation="sigmoid"))
+model.add(keras.layers.Embedding(10000, 16))
+model.add(keras.layers.GlobalAveragePooling1D())
+model.add(keras.layers.Dense(16, activation="relu"))
+model.add(keras.layers.Dense(1, activation="sigmoid"))
 
 model.summary()
